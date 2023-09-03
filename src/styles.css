@@ -1,1 +1,51 @@
-/* You can add global styles to this file, and also import other style files */
+/* Green Brand Color */
+.brand-color {
+   color: #25D366;
+ }
+ 
+ /* Background Color */
+ .background-color {
+   background-color: #FFFFFF;
+ }
+ .background-secondery-color {
+   background-color: #167962;
+ }
+ .background-sender-color{
+   background-color: #00f5bc;
+ }
+ .background-resever-color{
+   background-color: #fad564
+ }
+ /* Dark Green Secondary Color */
+ .secondary-color {
+   color: #075E54;
+ }
+
+
+.bg-white-gray{
+   background-color: rgb(227, 225, 225);
+}
+.w-15{
+   width: 15%;
+}
+.w-5{
+   width: 5%;
+}
+body, html {
+  overflow: hidden;
+}
+
+.scroll-down{
+   height: 100vh;
+   /* overflow: scroll */
+}
+.border-start{
+   border-color: #0a807250 !important;
+}
+.font-30{
+   font-size: 25px !important;
+   /* font-weight: 100 !important; */
+}
+.w-85 {
+   width: 85%!important;
+}
